@@ -10,7 +10,7 @@ Assignments published for portfolio purposes.
 
 
 
-This repository is intended for \*\*reference\*\* only.
+This repository is intended for **reference** only.
 
 Please do not copy the code directly for academic submissions.
 
