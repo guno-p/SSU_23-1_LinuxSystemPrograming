@@ -1,8 +1,8 @@
-# \# SSU\_23-1\_LinuxSystemProgramming
+# SSU\_23-1\_LinuxSystemProgramming
 
 
 
-\*\*Spring 2023\*\* semester for the course \*\*SSU Linux System Programming\*\*.
+**Spring 2023** semester for the course **SSU Linux System Programming**.
 
 
 
